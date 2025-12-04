@@ -50,3 +50,5 @@ I run a YouTube channel where I share insights about frontend development and mo
 ## Contact
 - LinkedIn: [linkedin.com/in/ExyFareinheits](https://linkedin.com/in/ExyFareinheits)  
 - Email: [your@email.com](mailto:your@email.com)
+
+XD
